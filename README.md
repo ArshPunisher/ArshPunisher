@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [https://arshpunisher.github.io/My_Portfolio/](https://arshpunisher.github.io/My_Portfolio/](https://portfolioarsh.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolioarsh.vercel.app/]
 
 - 💬 Ask me about **Node.js, React, Postgresql, MongoDB**
 
