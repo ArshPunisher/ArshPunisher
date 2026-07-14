@@ -1,32 +1,177 @@
-<h1 align="center">Hi 👋, I'm Arsh Ramgarhia</h1>
-<h3 align="center">A meticulous developer from India</h3>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshpunisher&label=Profile%20views&color=0e75b6&style=flat" alt="arshpunisher" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=Arsh%20Ramgarhia&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20Cloud&descSize=16&descAlignY=56&animation=fadeIn" alt="banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshpunisher" alt="arshpunisher" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **MERN stack and Cloud Computing**
+<a href="https://portfolioarsh.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+things+for+the+web.;Node.js+%2B+React+%2B+Postgres+%2B+AWS;Shipping+%3E+shipping+later." alt="typing" />
+</a>
 
-- 🌱 I’m currently learning **Amazon Web Services**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://portfolioarsh.vercel.app/]
+<a href="https://portfolioarsh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="https://linkedin.com/in/arshdeep-singh-1828b61a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://twitter.com/ArshRamgarhia"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+<a href="https://instagram.com/iarshramgarhia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="mailto:arshsiddle0822@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
-- 💬 Ask me about **Node.js, React, Postgresql, MongoDB**
+<br/>
 
-- 📫 How to reach me **arshsiddle0822@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=ArshPunisher&label=Profile%20views&color=1F6FEB&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/ArshPunisher?label=Followers&style=flat-square&color=1F6FEB" alt="followers" />
+<img src="https://img.shields.io/badge/Based%20in-Amritsar,%20India-1F6FEB?style=flat-square" alt="location" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arshramgarhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshramgarhia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arsh-ramgarhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsh-ramgarhia" height="30" width="40" /></a>
-<a href="https://instagram.com/iarshramgarhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iarshramgarhia" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshpunisher&show_icons=true&locale=en&layout=compact" alt="arshpunisher" /></p>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshpunisher&show_icons=true&locale=en" alt="arshpunisher" /></p>
+## 🧠 whoami
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshpunisher&" alt="arshpunisher" /></p>
+```ts
+const arsh = {
+  role:      "Full-Stack Engineer",
+  stack:     ["TypeScript", "React", "Node.js", "PostgreSQL", "MongoDB"],
+  currently: "Building production systems on the MERN stack",
+  learning:  ["AWS", "Kubernetes", "System Design"],
+  askMeAbout:["APIs", "Databases", "Cloud", "Anything JS"],
+  motto:     "Measure twice, ship once.",
+};
+```
+
+<table>
+  <tr>
+    <td>🔭</td><td><b>Working on</b></td><td>MERN stack products &amp; cloud infrastructure</td>
+  </tr>
+  <tr>
+    <td>🌱</td><td><b>Learning</b></td><td>Amazon Web Services &amp; distributed systems</td>
+  </tr>
+  <tr>
+    <td>💼</td><td><b>Portfolio</b></td><td><a href="https://portfolioarsh.vercel.app/">portfolioarsh.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td>📫</td><td><b>Reach me</b></td><td><a href="mailto:arshsiddle0822@gmail.com">arshsiddle0822@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>⚡</td><td><b>Fun fact</b></td><td>4,700+ contributions in the last year — the graph doesn't lie</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,php,html,css&theme=dark" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,figma&theme=dark" alt="frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,django,flask,nginx&theme=dark" alt="backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark" alt="databases" />
+
+**Cloud &amp; DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,vercel,postman&theme=dark" alt="devops" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArshPunisher&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=ArshPunisher&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=12" alt="streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshPunisher&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="top languages" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshPunisher&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=1F6FEB&area=true&area_color=1F6FEB&hide_border=true&radius=12" alt="activity graph" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArshPunisher/ArshPunisher/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArshPunisher/ArshPunisher/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ArshPunisher/ArshPunisher/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ArshPunisher/netflix-clone">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=netflix-clone&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="netflix-clone" />
+</a>
+<a href="https://github.com/ArshPunisher/My_Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=My_Portfolio&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="My_Portfolio" />
+</a>
+
+<a href="https://github.com/ArshPunisher/Url_Shortner">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=Url_Shortner&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="Url_Shortner" />
+</a>
+<a href="https://github.com/ArshPunisher/Authentication">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=Authentication&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="Authentication" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ArshPunisher&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
+<div align="center">
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+<a href="https://portfolioarsh.vercel.app/"><b>portfolioarsh.vercel.app</b></a> · <a href="mailto:arshsiddle0822@gmail.com"><b>arshsiddle0822@gmail.com</b></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="footer" />
