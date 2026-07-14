@@ -97,12 +97,17 @@ const arsh = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArshPunisher&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=ArshPunisher&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=12" alt="streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshPunisher&theme=github_dark" alt="profile summary" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshPunisher&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="top languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=ArshPunisher&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border_radius=12" alt="streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArshPunisher&theme=github_dark" alt="most used languages" />
+
+<br/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshPunisher&theme=github_dark" alt="stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshPunisher&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
 <br/><br/>
 
@@ -132,35 +137,16 @@ const arsh = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+| Project | Stack | Live |
+| :--- | :--- | :--- |
+| **[Portfolio](https://github.com/ArshPunisher/Portfolio)** — personal site &amp; project showcase | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [↗ portfolioarsh.vercel.app](https://portfolioarsh.vercel.app) |
+| **[GPT](https://github.com/ArshPunisher/GPT)** — conversational AI web client | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | — |
+| **[eCommerce-Sahara](https://github.com/ArshPunisher/eCommerce-Sahara)** — full-stack storefront | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [↗ sahara-xi.vercel.app](https://sahara-xi.vercel.app) |
+| **[Gpt-Agent](https://github.com/ArshPunisher/Gpt-Agent)** — agentic LLM tooling | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | — |
+| **[AI-Resume-Builder](https://github.com/ArshPunisher/AI-Resume-Builder)** — AI-assisted résumé generator | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | — |
+| **[Notes-MERN](https://github.com/ArshPunisher/Notes-MERN)** — notes app on the MERN stack | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | — |
 
-<a href="https://github.com/ArshPunisher/netflix-clone">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=netflix-clone&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="netflix-clone" />
-</a>
-<a href="https://github.com/ArshPunisher/My_Portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=My_Portfolio&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="My_Portfolio" />
-</a>
-
-<a href="https://github.com/ArshPunisher/Url_Shortner">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=Url_Shortner&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="Url_Shortner" />
-</a>
-<a href="https://github.com/ArshPunisher/Authentication">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshPunisher&repo=Authentication&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12" alt="Authentication" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ArshPunisher&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
+<sub>📌 Full archive → **[github.com/ArshPunisher?tab=repositories](https://github.com/ArshPunisher?tab=repositories)**</sub>
 
 <br/>
 
