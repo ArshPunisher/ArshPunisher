@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<a href="https://portfolioarsh.vercel.app/">
+<a href="https://arsh.transformx.site/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+things+for+the+web.;Node.js+%2B+React+%2B+Postgres+%2B+AWS;Shipping+%3E+shipping+later." alt="typing" />
 </a>
 
 <br/>
 
-<a href="https://portfolioarsh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="https://arsh.transformx.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 <a href="https://linkedin.com/in/arshdeep-singh-1828b61a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://twitter.com/ArshRamgarhia"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
 <a href="https://instagram.com/iarshramgarhia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
@@ -49,7 +49,7 @@ const arsh = {
     <td>🌱</td><td><b>Learning</b></td><td>Amazon Web Services &amp; distributed systems</td>
   </tr>
   <tr>
-    <td>💼</td><td><b>Portfolio</b></td><td><a href="https://portfolioarsh.vercel.app/">portfolioarsh.vercel.app</a></td>
+    <td>💼</td><td><b>Portfolio</b></td><td><a href="https://arsh.transformx.site/">arsh.transformx.site</a></td>
   </tr>
   <tr>
     <td>📫</td><td><b>Reach me</b></td><td><a href="mailto:arshsiddle0822@gmail.com">arshsiddle0822@gmail.com</a></td>
@@ -139,7 +139,7 @@ const arsh = {
 
 | Project | Stack | Live |
 | :--- | :--- | :--- |
-| **[Portfolio](https://github.com/ArshPunisher/Portfolio)** — personal site &amp; project showcase | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [↗ portfolioarsh.vercel.app](https://portfolioarsh.vercel.app) |
+| **[Portfolio](https://github.com/ArshPunisher/Portfolio-Arsh)** — personal site, blog &amp; project showcase | ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | [↗ arsh.transformx.site](https://arsh.transformx.site) |
 | **[GPT](https://github.com/ArshPunisher/GPT)** — conversational AI web client | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | — |
 | **[eCommerce-Sahara](https://github.com/ArshPunisher/eCommerce-Sahara)** — full-stack storefront | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [↗ sahara-xi.vercel.app](https://sahara-xi.vercel.app) |
 | **[Gpt-Agent](https://github.com/ArshPunisher/Gpt-Agent)** — agentic LLM tooling | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | — |
@@ -156,7 +156,7 @@ const arsh = {
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds
 
-<a href="https://portfolioarsh.vercel.app/"><b>portfolioarsh.vercel.app</b></a> · <a href="mailto:arshsiddle0822@gmail.com"><b>arshsiddle0822@gmail.com</b></a>
+<a href="https://arsh.transformx.site/"><b>arsh.transformx.site</b></a> · <a href="mailto:arshsiddle0822@gmail.com"><b>arshsiddle0822@gmail.com</b></a>
 
 </div>
 
